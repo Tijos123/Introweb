@@ -1,0 +1,40 @@
+﻿main{
+	margin:0 auto;  /* permet de centrer à 60% de la page*/
+	width: 60%;
+	max-width: 900px;
+
+}
+h1,h2{
+    padding:10px;
+	text-align: center;
+
+}
+nav{
+	float: left;
+	padding-right:10px;
+	width: 125px;
+    border:1px solid black;
+
+}
+
+#section1{
+	text-align: left;
+	float: left;
+	width: 350px;
+	padding-left:5px;
+	border:1px solid black;
+}
+
+#section2{
+	float: right;
+	width: 350px;
+	padding-left:5px;
+	padding-top:5px;
+	border:1px solid black;
+
+}
+footer{
+	width: 450px;
+    float: left;
+    padding: 15px;
+}
